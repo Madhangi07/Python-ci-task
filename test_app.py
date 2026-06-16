@@ -17,7 +17,7 @@ def test_factorial_4():
     assert factorial(4) == 24
 
 def test_factorial_5():
-    assert factorial(5) == 100
+    assert factorial(5) == 120
 
 def test_factorial_6():
     assert factorial(6) == 720
